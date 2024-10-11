@@ -61,4 +61,4 @@ We have used the following trading indicators must for this project:
 - Create .env file in /src directory in each services according to config.py files.
 - Install and run Zookeeper , Kafka and Reids
 - Run the services
-- You can test the functionality of this project by running Visualization Service.
+- You can test the project by running Visualization Service.
