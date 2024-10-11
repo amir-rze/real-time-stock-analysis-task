@@ -56,3 +56,9 @@ We have used the following trading indicators must for this project:
 
 - **Containerization:**
   - **Docker:** Implemented for containerizing the application components, ensuring consistency across different environments.
+
+## How to run the project locally
+- Create .env file in /src directory in each services according to config.py files.
+- Install and run Zookeeper , Kafka and Reids
+- Run the services
+- You can test the functionality of this project by running Visualization Service.
